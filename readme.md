@@ -1,10 +1,8 @@
-# Three.js Journey
+# Portfolio - Abaze
 
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
+## Mise en route
 
-``` bash
+```bash
 # Install dependencies (only the first time)
 npm install
 
