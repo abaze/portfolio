@@ -84,7 +84,8 @@ body {
       line-height: 1.5;
       text-shadow: 1px 0px 1px #000000;
       padding: 0;
-      inline-size: 50vw;
+      word-break: break-word;
+      width: clamp(300px, 50vw, 600px);
     }
 
     .skills {
